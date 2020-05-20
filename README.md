@@ -1,5 +1,5 @@
 # Housing-price-prediction
-Housing price prediction from Kaggle in class competition where compare mean absolute error in two XGBoost models.
+Housing price prediction from Kaggle in class competition where we compare mean absolute error in two XGBoost models.
 
 for model 1 (random_state = 0)
 
