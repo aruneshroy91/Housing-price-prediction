@@ -1,4 +1,7 @@
 # Housing-price-prediction
+
+Exploratory data analysis of selected few features.
+
 Housing price prediction from Kaggle in class competition where we compare mean absolute error in two XGBoost models.
 
 for model 1 (random_state = 0)
